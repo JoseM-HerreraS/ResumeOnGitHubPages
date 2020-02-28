@@ -39,7 +39,7 @@
 	overflow:hidden;
 	z-index:10;
 }
-#accordion article p {
+#accordion article p{
 	padding: 1em;
 }
 #accordion input:checked article {
